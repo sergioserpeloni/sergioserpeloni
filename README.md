@@ -66,3 +66,15 @@ Exploring AI systems capable of interacting with external tools, APIs and data.
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,git,github" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergioserpeloni&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioserpeloni&layout=compact&hide_border=true" />
+</p>
