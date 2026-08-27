@@ -146,3 +146,103 @@ Developer Tools
 </td>
 </tr>
 </table>
+
+---
+
+## 🏗️ How I Build
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+### 01
+
+🔎
+
+**Problem**
+
+Understand  
+the real problem
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 02
+
+📡
+
+**Data**
+
+Collect  
+real-world data
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 03
+
+⚙️
+
+**Engineering**
+
+Process  
+& transform
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 04
+
+🧠
+
+**AI / ML**
+
+Learn  
+& predict
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 05
+
+🚀
+
+**Solution**
+
+Build  
+& deploy
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 06
+
+📈
+
+**Impact**
+
+Measure  
+& improve
+
+</td>
+</tr>
+</table>
+
+---
+
+> **Data → Intelligence → Engineering → Impact**
