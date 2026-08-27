@@ -16,3 +16,31 @@ Currently exploring and building projects around:
 - 🐍 Python & TensorFlow
 - 🔌 APIs & AI integrations
 - 🌎 Open Source
+
+  ---
+
+## 🔥 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚦 Traffic Anomaly Detection
+
+Building an AI system to detect abnormal traffic patterns using real-world data.
+
+**Python · TensorFlow · APIs · Data Engineering**
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & MCP
+
+Exploring AI systems capable of interacting with external tools, APIs and data.
+
+**AI · MCP · Python · APIs · LLMs**
+
+</td>
+</tr>
+</table>
