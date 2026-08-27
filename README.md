@@ -94,3 +94,11 @@ My approach is based on:
 - 🧠 Apply Machine Learning to real-world problems
 - 🔌 Connect AI with APIs, tools and data
 - 🚀 Build and contribute to Open Source
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sergioserpeloni&theme=flat&no-frame=true&margin-w=10" />
+</p>
