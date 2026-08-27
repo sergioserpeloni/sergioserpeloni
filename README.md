@@ -66,3 +66,11 @@ Exploring AI systems capable of interacting with external tools, APIs and data.
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,git,github" />
 </p>
+---
+
+## ⭐ Featured Projects
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🚦 **Traffic Anomaly Detection** | AI system for detecting abnormal traffic patterns using real-world data. | Python · TensorFlow · Data Engineering |
+| 🤖 **AI & MCP** | Experiments and applications connecting AI with external tools, APIs and data. | AI · MCP · Python · APIs |
