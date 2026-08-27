@@ -94,3 +94,55 @@ My approach is based on:
 - 🧠 Apply Machine Learning to real-world problems
 - 🔌 Connect AI with APIs, tools and data
 - 🚀 Build and contribute to Open Source
+
+---
+
+## 🎯 Areas of Expertise
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+**Artificial Intelligence**
+
+AI Systems  
+LLMs  
+AI Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+**Machine Learning**
+
+TensorFlow  
+Anomaly Detection  
+Predictive Models
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**Data Engineering**
+
+Data Pipelines  
+SQL  
+Data Processing
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Open Source**
+
+GitHub  
+Automation  
+Developer Tools
+
+</td>
+</tr>
+</table>
