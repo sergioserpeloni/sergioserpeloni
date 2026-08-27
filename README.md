@@ -74,3 +74,23 @@ Exploring AI systems capable of interacting with external tools, APIs and data.
 |:---|:---|:---|
 | 🚦 **Traffic Anomaly Detection** | AI system for detecting abnormal traffic patterns using real-world data. | Python · TensorFlow · Data Engineering |
 | 🤖 **AI & MCP** | Experiments and applications connecting AI with external tools, APIs and data. | AI · MCP · Python · APIs |
+
+---
+
+## 🧭 Engineering Approach
+
+I believe technology is most valuable when it solves real problems.
+
+My approach is based on:
+
+| 🔍 Understand | 🏗️ Build | 🧪 Validate | 📈 Improve |
+|:---:|:---:|:---:|:---:|
+| Understand the problem | Design the solution | Measure the results | Continuously improve |
+
+### My Focus
+
+- 🤖 Build practical AI solutions
+- 📊 Transform data into useful insights
+- 🧠 Apply Machine Learning to real-world problems
+- 🔌 Connect AI with APIs, tools and data
+- 🚀 Build and contribute to Open Source
