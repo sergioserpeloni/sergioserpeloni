@@ -44,3 +44,25 @@ Exploring AI systems capable of interacting with external tools, APIs and data.
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Technology Stack
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### 📊 Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+### 💻 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,git,github" />
+</p>
