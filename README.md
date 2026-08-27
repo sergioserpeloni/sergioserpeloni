@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Sergio
 
-<!--
-**sergioserpeloni/sergioserpeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Engineer | Artificial Intelligence • Machine Learning • Data Engineering
 
-Here are some ideas to get you started:
+> Building intelligent solutions with data, AI and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+
+Currently exploring and building projects around:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Engineering
+- 🐍 Python & TensorFlow
+- 🔌 APIs & AI integrations
+- 🌎 Open Source
